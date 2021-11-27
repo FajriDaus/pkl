@@ -1,0 +1,4 @@
+#Sat Nov 27 23:57:02 ICT 2021
+base.0=D\:\\Kuliah\\Semester 7\\PKL\\Output PKL\\v 1.0\\sispak3\\v1.0\\sispak\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
